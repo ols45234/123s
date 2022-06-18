@@ -1,0 +1,95 @@
+.p1 {
+    color: #42ad62
+}
+.bg1 {
+    padding: 20px;
+    background-color: blueviolet
+}
+
+.sec-head {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin: 0px;
+    padding-top: 19px;
+    padding-left: 20px;
+    padding-right: 30px;
+    background-color: #00A651
+}
+.logo-text {
+    
+    max-width: 137px;
+    color: #FFFFFF;
+}
+.menu-el {
+    cursor: pointer;
+    color: #FFFFFF;
+    padding-left: 20px;
+    display: inline;
+}
+.menu {
+    padding: 0px;
+}
+
+.banner {
+    height: 700px;
+    background-image: url('../images/banner_1.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: fix;
+}
+
+h1.h1 {
+    font-family: "press start 2p",cursive;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.sec-prog {
+    justify-content: space-around;
+    display: flex;
+    background-color: #42ad62;
+    align-items: center;
+}
+.img-prog {
+    padding: 20px;
+    max-width: 70%;
+}
+.text-prog {
+    max-width: 60%;
+    color:#FFFFFF;
+}
+.text-about-prog {
+    color: #FFFFFF;
+    font-family: "press start 2p",cursive;
+}
+
+
+.sec-ux-ui {
+    justify-content: space-around;
+    display: flex;
+    background-color: #42ad62;
+    align-items: center;
+}
+.img-ux-ui {
+    padding: 20px;
+    max-width: 60%;
+}
+.text-ux-ui {
+    max-width: 70%;
+    color:#FFFFFF;
+}
+.text-about-ux-ui {
+    color: #FFFFFF;
+    font-family: "press start 2p",cursive;
+}
+
+
+
+.about-me {
+    display: flex;
+    padding: 20,auto;
+    background-color: #ffffff;
+    color:black
+}
